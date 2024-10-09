@@ -10,5 +10,3 @@ function addExpense(expense) {
 function getExpenseDetails(description, cost) {
     console.log(`${description}: $${cost}`);
 }
-addExpense(700)
-getExpenseDetails("Tea" ,700)
